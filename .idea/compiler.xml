@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="front_boot" />
+        <module name="front_consumer" />
+        <module name="front_provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="front_boot" target="1.7" />
+      <module name="front_consumer" target="1.7" />
+      <module name="front_provider" target="1.7" />
+      <module name="medical_front" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

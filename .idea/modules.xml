@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/front_boot/front_boot.iml" filepath="$PROJECT_DIR$/front_boot/front_boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front_consumer/front_consumer.iml" filepath="$PROJECT_DIR$/front_consumer/front_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front_provider/front_provider.iml" filepath="$PROJECT_DIR$/front_provider/front_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medical_front.iml" filepath="$PROJECT_DIR$/medical_front.iml" />
+    </modules>
+  </component>
+</project>
